@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\bin\Debug\net6.0\ArrayOfPerson.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\bin\Debug\net6.0\ArrayOfPerson.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\bin\Debug\net6.0\ArrayOfPerson.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\bin\Debug\net6.0\ArrayOfPerson.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\bin\Debug\net6.0\ArrayOfPerson.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ArrayOfPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ArrayOfPerson.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ArrayOfPerson.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ArrayOfPerson.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ArrayOfPerson.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\refint\ArrayOfPerson.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ArrayOfPerson.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ArrayOfPerson.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ArrayOfPerson\obj\Debug\net6.0\ref\ArrayOfPerson.dll
