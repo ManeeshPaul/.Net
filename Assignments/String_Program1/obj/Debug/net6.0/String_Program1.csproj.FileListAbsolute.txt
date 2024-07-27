@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\bin\Debug\net6.0\String_Program1.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\bin\Debug\net6.0\String_Program1.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\bin\Debug\net6.0\String_Program1.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\bin\Debug\net6.0\String_Program1.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\bin\Debug\net6.0\String_Program1.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\String_Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\String_Program1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\String_Program1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\String_Program1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\String_Program1.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\refint\String_Program1.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\String_Program1.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\String_Program1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\String_Program1\obj\Debug\net6.0\ref\String_Program1.dll

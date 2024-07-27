@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\bin\Debug\net6.0\EmployeeClass.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\bin\Debug\net6.0\EmployeeClass.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\bin\Debug\net6.0\EmployeeClass.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\bin\Debug\net6.0\EmployeeClass.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\bin\Debug\net6.0\EmployeeClass.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\EmployeeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\EmployeeClass.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\EmployeeClass.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\EmployeeClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\EmployeeClass.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\refint\EmployeeClass.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\EmployeeClass.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\EmployeeClass.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeClass\obj\Debug\net6.0\ref\EmployeeClass.dll

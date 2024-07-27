@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\CopyConstructor.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\bin\Debug\net6.0\CopyConstructor.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\bin\Debug\net6.0\CopyConstructor.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\bin\Debug\net6.0\CopyConstructor.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\bin\Debug\net6.0\CopyConstructor.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\bin\Debug\net6.0\CopyConstructor.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\CopyConstructor.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\refint\CopyConstructor.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\CopyConstructor.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\CopyConstructor.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CopyConstructor\obj\Debug\net6.0\ref\CopyConstructor.dll

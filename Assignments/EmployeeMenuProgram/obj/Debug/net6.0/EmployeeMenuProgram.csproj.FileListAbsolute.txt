@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\bin\Debug\net6.0\EmployeeMenuProgram.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\bin\Debug\net6.0\EmployeeMenuProgram.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\bin\Debug\net6.0\EmployeeMenuProgram.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\bin\Debug\net6.0\EmployeeMenuProgram.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\bin\Debug\net6.0\EmployeeMenuProgram.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\EmployeeMenuProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\EmployeeMenuProgram.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\EmployeeMenuProgram.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\EmployeeMenuProgram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\EmployeeMenuProgram.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\refint\EmployeeMenuProgram.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\EmployeeMenuProgram.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\EmployeeMenuProgram.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\EmployeeMenuProgram\obj\Debug\net6.0\ref\EmployeeMenuProgram.dll

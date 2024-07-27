@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\bin\Debug\net6.0\Calculate_Salary.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\bin\Debug\net6.0\Calculate_Salary.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\bin\Debug\net6.0\Calculate_Salary.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\bin\Debug\net6.0\Calculate_Salary.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\bin\Debug\net6.0\Calculate_Salary.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\Calculate_Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\Calculate_Salary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\Calculate_Salary.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\Calculate_Salary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\Calculate_Salary.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\refint\Calculate_Salary.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\Calculate_Salary.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\Calculate_Salary.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\Calculate_Salary\obj\Debug\net6.0\ref\Calculate_Salary.dll
