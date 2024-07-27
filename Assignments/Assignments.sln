@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOfPerson", "ArrayOfPer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilevelInheritance", "MultilevelInheritance\MultilevelInheritance.csproj", "{11208563-2ABF-43FF-8C34-EE58992F5CAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceProblem", "InterfaceProblem\InterfaceProblem.csproj", "{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{11208563-2ABF-43FF-8C34-EE58992F5CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11208563-2ABF-43FF-8C34-EE58992F5CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11208563-2ABF-43FF-8C34-EE58992F5CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
