@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\bin\Debug\net6.0\ProblemOnMultilevel.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\bin\Debug\net6.0\ProblemOnMultilevel.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\bin\Debug\net6.0\ProblemOnMultilevel.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\bin\Debug\net6.0\ProblemOnMultilevel.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\bin\Debug\net6.0\ProblemOnMultilevel.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ProblemOnMultilevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ProblemOnMultilevel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ProblemOnMultilevel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ProblemOnMultilevel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ProblemOnMultilevel.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\refint\ProblemOnMultilevel.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ProblemOnMultilevel.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ProblemOnMultilevel.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ProblemOnMultilevel\obj\Debug\net6.0\ref\ProblemOnMultilevel.dll
