@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\bin\Debug\net6.0\MultilevelInheritance.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\refint\MultilevelInheritance.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\MultilevelInheritance.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultilevelInheritance\obj\Debug\net6.0\ref\MultilevelInheritance.dll
