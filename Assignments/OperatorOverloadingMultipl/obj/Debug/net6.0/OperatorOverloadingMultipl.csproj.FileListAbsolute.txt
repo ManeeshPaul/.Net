@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\bin\Debug\net6.0\OperatorOverloadingMultipl.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\bin\Debug\net6.0\OperatorOverloadingMultipl.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\bin\Debug\net6.0\OperatorOverloadingMultipl.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\bin\Debug\net6.0\OperatorOverloadingMultipl.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\bin\Debug\net6.0\OperatorOverloadingMultipl.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\OperatorOverloadingMultipl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\OperatorOverloadingMultipl.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\OperatorOverloadingMultipl.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\OperatorOverloadingMultipl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\OperatorOverloadingMultipl.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\refint\OperatorOverloadingMultipl.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\OperatorOverloadingMultipl.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\OperatorOverloadingMultipl.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloadingMultipl\obj\Debug\net6.0\ref\OperatorOverloadingMultipl.dll

@@ -21,15 +21,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeClass", "EmployeeCl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeMenuProgram", "EmployeeMenuProgram\EmployeeMenuProgram.csproj", "{EF934131-CF42-4CBC-A2C0-8C8E46439EFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyConstructor", "CopyConstructor\CopyConstructor.csproj", "{FDD659AE-DF0C-4475-A30B-B2449D43D011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopyConstructor", "CopyConstructor\CopyConstructor.csproj", "{FDD659AE-DF0C-4475-A30B-B2449D43D011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemOnMultilevel", "ProblemOnMultilevel\ProblemOnMultilevel.csproj", "{E15AD9B0-751E-417F-9248-6FA2CF6D7210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemOnMultilevel", "ProblemOnMultilevel\ProblemOnMultilevel.csproj", "{E15AD9B0-751E-417F-9248-6FA2CF6D7210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOfPerson", "ArrayOfPerson\ArrayOfPerson.csproj", "{8BF69FEB-BB4B-4557-A21A-26B8CAC15CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOfPerson", "ArrayOfPerson\ArrayOfPerson.csproj", "{8BF69FEB-BB4B-4557-A21A-26B8CAC15CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilevelInheritance", "MultilevelInheritance\MultilevelInheritance.csproj", "{11208563-2ABF-43FF-8C34-EE58992F5CAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultilevelInheritance", "MultilevelInheritance\MultilevelInheritance.csproj", "{11208563-2ABF-43FF-8C34-EE58992F5CAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceProblem", "InterfaceProblem\InterfaceProblem.csproj", "{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceProblem", "InterfaceProblem\InterfaceProblem.csproj", "{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingPlus", "OperatorOverloading\OperatorOverloadingPlus.csproj", "{D8A03358-A5F8-4AE0-B8F1-CD327AF36C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingMultipl", "OperatorOverloadingMultipl\OperatorOverloadingMultipl.csproj", "{0CF4ECCA-7B2A-479F-96A8-CC5F68236078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{185E3B46-C4E9-4FE0-A640-CBEA0F9551E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionOverloading", "FunctionOverloading\FunctionOverloading.csproj", "{8F36DBAB-6666-4F81-BDDE-82130775304F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +101,22 @@ Global
 		{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A03358-A5F8-4AE0-B8F1-CD327AF36C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A03358-A5F8-4AE0-B8F1-CD327AF36C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A03358-A5F8-4AE0-B8F1-CD327AF36C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A03358-A5F8-4AE0-B8F1-CD327AF36C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF4ECCA-7B2A-479F-96A8-CC5F68236078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF4ECCA-7B2A-479F-96A8-CC5F68236078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF4ECCA-7B2A-479F-96A8-CC5F68236078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF4ECCA-7B2A-479F-96A8-CC5F68236078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185E3B46-C4E9-4FE0-A640-CBEA0F9551E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185E3B46-C4E9-4FE0-A640-CBEA0F9551E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185E3B46-C4E9-4FE0-A640-CBEA0F9551E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185E3B46-C4E9-4FE0-A640-CBEA0F9551E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F36DBAB-6666-4F81-BDDE-82130775304F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F36DBAB-6666-4F81-BDDE-82130775304F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F36DBAB-6666-4F81-BDDE-82130775304F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F36DBAB-6666-4F81-BDDE-82130775304F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
