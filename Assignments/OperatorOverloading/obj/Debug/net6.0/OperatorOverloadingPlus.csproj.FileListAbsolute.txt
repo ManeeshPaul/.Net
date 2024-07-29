@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\OperatorOverloadingPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\OperatorOverloadingPlus.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\OperatorOverloadingPlus.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\OperatorOverloadingPlus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\bin\Debug\net6.0\OperatorOverloadingPlus.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\bin\Debug\net6.0\OperatorOverloadingPlus.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\bin\Debug\net6.0\OperatorOverloadingPlus.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\bin\Debug\net6.0\OperatorOverloadingPlus.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\bin\Debug\net6.0\OperatorOverloadingPlus.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\OperatorOverloadingPlus.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\refint\OperatorOverloadingPlus.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\OperatorOverloadingPlus.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\OperatorOverloadingPlus.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\OperatorOverloading\obj\Debug\net6.0\ref\OperatorOverloadingPlus.dll
