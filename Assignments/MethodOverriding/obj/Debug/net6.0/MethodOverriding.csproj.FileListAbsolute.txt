@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\bin\Debug\net6.0\MethodOverriding.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\bin\Debug\net6.0\MethodOverriding.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\bin\Debug\net6.0\MethodOverriding.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\bin\Debug\net6.0\MethodOverriding.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\bin\Debug\net6.0\MethodOverriding.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\MethodOverriding.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\MethodOverriding.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\refint\MethodOverriding.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\MethodOverriding.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\MethodOverriding.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MethodOverriding\obj\Debug\net6.0\ref\MethodOverriding.dll
