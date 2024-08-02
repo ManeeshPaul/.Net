@@ -31,13 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultilevelInheritance", "Mu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceProblem", "InterfaceProblem\InterfaceProblem.csproj", "{A21DFF26-BFFA-41C4-96CB-ABB54D5C712C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingPlus", "OperatorOverloading\OperatorOverloadingPlus.csproj", "{D8A03358-A5F8-4AE0-B8F1-CD327AF36C2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverloadingPlus", "OperatorOverloading\OperatorOverloadingPlus.csproj", "{D8A03358-A5F8-4AE0-B8F1-CD327AF36C2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingMultipl", "OperatorOverloadingMultipl\OperatorOverloadingMultipl.csproj", "{0CF4ECCA-7B2A-479F-96A8-CC5F68236078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverloadingMultipl", "OperatorOverloadingMultipl\OperatorOverloadingMultipl.csproj", "{0CF4ECCA-7B2A-479F-96A8-CC5F68236078}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{185E3B46-C4E9-4FE0-A640-CBEA0F9551E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{185E3B46-C4E9-4FE0-A640-CBEA0F9551E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionOverloading", "FunctionOverloading\FunctionOverloading.csproj", "{8F36DBAB-6666-4F81-BDDE-82130775304F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionOverloading", "FunctionOverloading\FunctionOverloading.csproj", "{8F36DBAB-6666-4F81-BDDE-82130775304F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{89C65A13-EBE7-49D9-84C3-8C09F1C2DE2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{8F36DBAB-6666-4F81-BDDE-82130775304F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F36DBAB-6666-4F81-BDDE-82130775304F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F36DBAB-6666-4F81-BDDE-82130775304F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C65A13-EBE7-49D9-84C3-8C09F1C2DE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C65A13-EBE7-49D9-84C3-8C09F1C2DE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C65A13-EBE7-49D9-84C3-8C09F1C2DE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C65A13-EBE7-49D9-84C3-8C09F1C2DE2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
