@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\bin\Debug\net6.0\DictionaryProject.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\bin\Debug\net6.0\DictionaryProject.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\bin\Debug\net6.0\DictionaryProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\bin\Debug\net6.0\DictionaryProject.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\bin\Debug\net6.0\DictionaryProject.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\DictionaryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\DictionaryProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\DictionaryProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\DictionaryProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\DictionaryProject.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\refint\DictionaryProject.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\DictionaryProject.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\DictionaryProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DictionaryProject\obj\Debug\net6.0\ref\DictionaryProject.dll
