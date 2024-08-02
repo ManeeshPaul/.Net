@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\bin\Debug\net6.0\PropertiesAndFields.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\bin\Debug\net6.0\PropertiesAndFields.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\bin\Debug\net6.0\PropertiesAndFields.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\bin\Debug\net6.0\PropertiesAndFields.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\bin\Debug\net6.0\PropertiesAndFields.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\PropertiesAndFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\PropertiesAndFields.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\PropertiesAndFields.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\PropertiesAndFields.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\PropertiesAndFields.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\refint\PropertiesAndFields.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\PropertiesAndFields.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\PropertiesAndFields.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\PropertiesAndFields\obj\Debug\net6.0\ref\PropertiesAndFields.dll
