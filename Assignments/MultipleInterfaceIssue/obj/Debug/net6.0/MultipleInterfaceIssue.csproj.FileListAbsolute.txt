@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\bin\Debug\net6.0\MultipleInterfaceIssue.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\bin\Debug\net6.0\MultipleInterfaceIssue.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\bin\Debug\net6.0\MultipleInterfaceIssue.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\bin\Debug\net6.0\MultipleInterfaceIssue.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\bin\Debug\net6.0\MultipleInterfaceIssue.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\MultipleInterfaceIssue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\MultipleInterfaceIssue.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\MultipleInterfaceIssue.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\MultipleInterfaceIssue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\MultipleInterfaceIssue.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\refint\MultipleInterfaceIssue.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\MultipleInterfaceIssue.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\MultipleInterfaceIssue.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\MultipleInterfaceIssue\obj\Debug\net6.0\ref\MultipleInterfaceIssue.dll

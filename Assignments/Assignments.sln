@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "Calculator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesAndFields", "PropertiesAndFields\PropertiesAndFields.csproj", "{2E897DE8-781B-4DD2-875D-BC34B04246DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInterfaceIssue", "MultipleInterfaceIssue\MultipleInterfaceIssue.csproj", "{B82F119F-1F47-4DBC-94EC-B4D601B5C0B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{2E897DE8-781B-4DD2-875D-BC34B04246DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E897DE8-781B-4DD2-875D-BC34B04246DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E897DE8-781B-4DD2-875D-BC34B04246DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82F119F-1F47-4DBC-94EC-B4D601B5C0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82F119F-1F47-4DBC-94EC-B4D601B5C0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82F119F-1F47-4DBC-94EC-B4D601B5C0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82F119F-1F47-4DBC-94EC-B4D601B5C0B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
