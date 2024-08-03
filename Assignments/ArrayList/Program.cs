@@ -4,7 +4,7 @@ namespace ArrayListProject
 {
     internal class Program
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             ArrayList aList = new ArrayList();
             string str = "Arun";
