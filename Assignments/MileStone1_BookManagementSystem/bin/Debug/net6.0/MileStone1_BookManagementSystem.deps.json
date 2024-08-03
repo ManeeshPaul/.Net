@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MileStone1_BookManagementSystem/1.0.0": {
+        "dependencies": {
+          "BooksLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MileStone1_BookManagementSystem.dll": {}
+        }
+      },
+      "BooksLibrary/1.0.0": {
+        "runtime": {
+          "BooksLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MileStone1_BookManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BooksLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
