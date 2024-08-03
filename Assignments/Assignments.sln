@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryProject", "Dictio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListProject", "ArrayList\ArrayListProject.csproj", "{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandlingProject", "FileHandlingProject\FileHandlingProject.csproj", "{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
