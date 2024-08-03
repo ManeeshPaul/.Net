@@ -39,19 +39,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "MethodO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionOverloading", "FunctionOverloading\FunctionOverloading.csproj", "{8F36DBAB-6666-4F81-BDDE-82130775304F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{89C65A13-EBE7-49D9-84C3-8C09F1C2DE2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{89C65A13-EBE7-49D9-84C3-8C09F1C2DE2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{33B75524-F0A6-4A11-B00B-462944EBF8CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{33B75524-F0A6-4A11-B00B-462944EBF8CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "CalculatorApp\CalculatorApp.csproj", "{39D63C68-4136-4CDA-AE36-CB4F44024145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorApp", "CalculatorApp\CalculatorApp.csproj", "{39D63C68-4136-4CDA-AE36-CB4F44024145}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesAndFields", "PropertiesAndFields\PropertiesAndFields.csproj", "{2E897DE8-781B-4DD2-875D-BC34B04246DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesAndFields", "PropertiesAndFields\PropertiesAndFields.csproj", "{2E897DE8-781B-4DD2-875D-BC34B04246DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInterfaceIssue", "MultipleInterfaceIssue\MultipleInterfaceIssue.csproj", "{B82F119F-1F47-4DBC-94EC-B4D601B5C0B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleInterfaceIssue", "MultipleInterfaceIssue\MultipleInterfaceIssue.csproj", "{B82F119F-1F47-4DBC-94EC-B4D601B5C0B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollections", "GenericCollections\GenericCollections.csproj", "{35BCC38C-C0E2-41F6-9F31-F69CBB3BEF2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCollections", "GenericCollections\GenericCollections.csproj", "{35BCC38C-C0E2-41F6-9F31-F69CBB3BEF2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryProject", "DictionaryProject\DictionaryProject.csproj", "{ADCE0FDD-CE93-49A8-B67B-E25F36477E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryProject", "DictionaryProject\DictionaryProject.csproj", "{ADCE0FDD-CE93-49A8-B67B-E25F36477E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListProject", "ArrayList\ArrayListProject.csproj", "{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{ADCE0FDD-CE93-49A8-B67B-E25F36477E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADCE0FDD-CE93-49A8-B67B-E25F36477E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADCE0FDD-CE93-49A8-B67B-E25F36477E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09C6E9E-BE74-4E15-BB8F-3621D52B7E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
