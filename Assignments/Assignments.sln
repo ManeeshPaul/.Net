@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListProject", "ArrayLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandlingProject", "FileHandlingProject\FileHandlingProject.csproj", "{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamReaderAndStreamWriter", "StreamReaderAndStreamWriter\StreamReaderAndStreamWriter.csproj", "{B5420D33-865F-4A5D-990A-7C57BB55459B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A185D244-F3A4-4DF1-8D86-E19F0E4E4403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5420D33-865F-4A5D-990A-7C57BB55459B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5420D33-865F-4A5D-990A-7C57BB55459B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5420D33-865F-4A5D-990A-7C57BB55459B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5420D33-865F-4A5D-990A-7C57BB55459B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
