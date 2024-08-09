@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\bin\Debug\net6.0\LINQLambdaQueryOperators.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\bin\Debug\net6.0\LINQLambdaQueryOperators.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\bin\Debug\net6.0\LINQLambdaQueryOperators.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\bin\Debug\net6.0\LINQLambdaQueryOperators.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\bin\Debug\net6.0\LINQLambdaQueryOperators.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\LINQLambdaQueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\LINQLambdaQueryOperators.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\LINQLambdaQueryOperators.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\LINQLambdaQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\LINQLambdaQueryOperators.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\refint\LINQLambdaQueryOperators.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\LINQLambdaQueryOperators.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\LINQLambdaQueryOperators.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQLambdaQueryOperators\obj\Debug\net6.0\ref\LINQLambdaQueryOperators.dll
