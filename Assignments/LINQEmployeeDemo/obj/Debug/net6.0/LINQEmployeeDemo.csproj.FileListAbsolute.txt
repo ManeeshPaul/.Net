@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\bin\Debug\net6.0\LINQEmployeeDemo.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\bin\Debug\net6.0\LINQEmployeeDemo.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\bin\Debug\net6.0\LINQEmployeeDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\bin\Debug\net6.0\LINQEmployeeDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\bin\Debug\net6.0\LINQEmployeeDemo.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\LINQEmployeeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\LINQEmployeeDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\LINQEmployeeDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\LINQEmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\LINQEmployeeDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\refint\LINQEmployeeDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\LINQEmployeeDemo.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\LINQEmployeeDemo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\LINQEmployeeDemo\obj\Debug\net6.0\ref\LINQEmployeeDemo.dll
