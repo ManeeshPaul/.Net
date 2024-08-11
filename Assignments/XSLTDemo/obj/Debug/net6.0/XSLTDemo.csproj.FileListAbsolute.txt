@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\bin\Debug\net6.0\XSLTDemo.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\bin\Debug\net6.0\XSLTDemo.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\bin\Debug\net6.0\XSLTDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\bin\Debug\net6.0\XSLTDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\bin\Debug\net6.0\XSLTDemo.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\XSLTDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\XSLTDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\XSLTDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\XSLTDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\XSLTDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\refint\XSLTDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\XSLTDemo.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\XSLTDemo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XSLTDemo\obj\Debug\net6.0\ref\XSLTDemo.dll
