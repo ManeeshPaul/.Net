@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\XMLWriteNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\XMLWriteNode.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\XMLWriteNode.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\XMLWriteNode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\bin\Debug\net6.0\XMLWriteNode.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\bin\Debug\net6.0\XMLWriteNode.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\bin\Debug\net6.0\XMLWriteNode.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\bin\Debug\net6.0\XMLWriteNode.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\bin\Debug\net6.0\XMLWriteNode.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\XMLWriteNode.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\refint\XMLWriteNode.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\XMLWriteNode.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\XMLWriteNode.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLWriteNode\obj\Debug\net6.0\ref\XMLWriteNode.dll
