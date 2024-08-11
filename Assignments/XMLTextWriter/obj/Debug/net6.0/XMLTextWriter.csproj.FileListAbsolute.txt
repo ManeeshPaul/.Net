@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\XMLTextWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\XMLTextWriter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\XMLTextWriter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\XMLTextWriter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\bin\Debug\net6.0\XMLTextWriter.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\bin\Debug\net6.0\XMLTextWriter.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\bin\Debug\net6.0\XMLTextWriter.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\bin\Debug\net6.0\XMLTextWriter.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\bin\Debug\net6.0\XMLTextWriter.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\XMLTextWriter.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\refint\XMLTextWriter.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\XMLTextWriter.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\XMLTextWriter.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextWriter\obj\Debug\net6.0\ref\XMLTextWriter.dll

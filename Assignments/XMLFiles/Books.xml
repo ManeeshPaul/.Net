@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+	<book>
+		<title>Lets learn C#</title>
+		<author>
+			<first-name>Vikash </first-name>
+			<last-name>Verma</last-name>
+		</author>
+		<price>10</price>
+	</book>
+	<book>
+		<title> Refactoring </title>
+		<author>
+			<first-name>Rohit </first-name>
+			<last-name>Kumar</last-name>
+		</author>
+		<price>20</price>
+	</book>
+</bookstore>

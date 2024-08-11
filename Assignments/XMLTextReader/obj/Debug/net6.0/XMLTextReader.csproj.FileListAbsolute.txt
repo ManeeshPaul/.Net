@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\XMLTextReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\XMLTextReader.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\XMLTextReader.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\XMLTextReader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\bin\Debug\net6.0\XMLTextReader.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\bin\Debug\net6.0\XMLTextReader.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\bin\Debug\net6.0\XMLTextReader.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\bin\Debug\net6.0\XMLTextReader.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\bin\Debug\net6.0\XMLTextReader.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\XMLTextReader.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\refint\XMLTextReader.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\XMLTextReader.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\XMLTextReader.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLTextReader\obj\Debug\net6.0\ref\XMLTextReader.dll
