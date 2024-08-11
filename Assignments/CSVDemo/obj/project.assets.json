@@ -59,11 +59,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Assignments\\LINQLambdaQueryOperators\\LINQLambdaQueryOperators.csproj",
-      "projectName": "LINQLambdaQueryOperators",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Assignments\\LINQLambdaQueryOperators\\LINQLambdaQueryOperators.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Assignments\\CSVDemo\\CSVDemo.csproj",
+      "projectName": "CSVDemo",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Assignments\\CSVDemo\\CSVDemo.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Assignments\\LINQLambdaQueryOperators\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Assignments\\CSVDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

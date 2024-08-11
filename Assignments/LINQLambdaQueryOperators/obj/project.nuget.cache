@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "erM4Xn7m9RoKl4PoAIx1WNGf6H5WzH2/WFAKGAUEgOEDkbKHp8QuagDrnhHsjyTG9aTUfro8PX0UJTcfzi04vQ==",
+  "dgSpecHash": "23giOkhnfGbJzEbKGIK4G2L5aDcfx0iTsRGNkjTMFhuHUJXnCxyJ6F0VM55DtcywtOZOxtxaoHSzk9tBzJCvwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Assignments\\LINQLambdaQueryOperators\\LINQLambdaQueryOperators.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

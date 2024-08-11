@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\bin\Debug\net6.0\CSVDemo.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\bin\Debug\net6.0\CSVDemo.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\bin\Debug\net6.0\CSVDemo.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\bin\Debug\net6.0\CSVDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\bin\Debug\net6.0\CSVDemo.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\refint\CSVDemo.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\CSVDemo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\CSVDemo\obj\Debug\net6.0\ref\CSVDemo.dll
