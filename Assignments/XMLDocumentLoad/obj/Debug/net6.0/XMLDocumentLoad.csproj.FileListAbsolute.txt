@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\bin\Debug\net6.0\XMLDocumentLoad.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\bin\Debug\net6.0\XMLDocumentLoad.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\bin\Debug\net6.0\XMLDocumentLoad.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\bin\Debug\net6.0\XMLDocumentLoad.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\bin\Debug\net6.0\XMLDocumentLoad.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\XMLDocumentLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\XMLDocumentLoad.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\XMLDocumentLoad.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\XMLDocumentLoad.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\XMLDocumentLoad.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\refint\XMLDocumentLoad.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\XMLDocumentLoad.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\XMLDocumentLoad.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\XMLDocumentLoad\obj\Debug\net6.0\ref\XMLDocumentLoad.dll
