@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\refint\DoctorManagementSystem.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\DoctorManagementSystem\obj\Debug\net6.0\ref\DoctorManagementSystem.dll
