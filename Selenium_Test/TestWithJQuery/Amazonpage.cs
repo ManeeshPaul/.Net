@@ -39,17 +39,9 @@ namespace TestWithJQuery02_9
 
 
             ////selecting first review
-            //wait.Until(d => d.FindElement(By.Id("reviewsMedley")));
-            //js.ExecuteScript("window.scrollBy(0, 1000);"); 
-            //var reviewsLink = driver.FindElement(By.LinkText("See all reviews"));
-            //reviewsLink.Click();
-
-            //// Wait for the reviews section to load
-            //wait.Until(d => d.FindElement(By.CssSelector(".review-text-content")));
-
-            //// Extract the first review
-            //string firstReview = (string)js.ExecuteScript("return $('.review-text-content').first().text().trim();");
-            //Console.WriteLine("First Review: " + firstReview);
+            js.ExecuteScript("document.querySelector('#reviewsMedley').scrollIntoView();");
+            string firstReview = (string)js.ExecuteScript("return $('.review-text-content span').first().text().trim();");
+            Console.WriteLine(firstReview);
 
 
             driver.Quit();
