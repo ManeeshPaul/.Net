@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4dCSKOMt1uVlKKx2flb8n4q+pjbh/lZFU8ev5XpyMGdwEFqCZZOhjB4ffuQtPSr8Fjnrd2eJgg9vSim/YJZlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\CSharp\\Tasks\\Selenium_Test\\Project31_8\\Project31_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
