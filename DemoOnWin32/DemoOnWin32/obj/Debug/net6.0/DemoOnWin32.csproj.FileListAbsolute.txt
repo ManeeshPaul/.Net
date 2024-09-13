@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\bin\Debug\net6.0\DemoOnWin32.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\bin\Debug\net6.0\DemoOnWin32.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\bin\Debug\net6.0\DemoOnWin32.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\bin\Debug\net6.0\DemoOnWin32.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\bin\Debug\net6.0\DemoOnWin32.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\DemoOnWin32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\DemoOnWin32.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\DemoOnWin32.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\DemoOnWin32.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\DemoOnWin32.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\refint\DemoOnWin32.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\DemoOnWin32.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\DemoOnWin32.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\DemoOnWin32\DemoOnWin32\obj\Debug\net6.0\ref\DemoOnWin32.dll
