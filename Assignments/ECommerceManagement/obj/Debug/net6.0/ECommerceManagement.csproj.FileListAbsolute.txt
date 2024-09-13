@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\bin\Debug\net6.0\ECommerceManagement.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\bin\Debug\net6.0\ECommerceManagement.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\bin\Debug\net6.0\ECommerceManagement.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\bin\Debug\net6.0\ECommerceManagement.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\bin\Debug\net6.0\ECommerceManagement.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ECommerceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ECommerceManagement.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ECommerceManagement.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ECommerceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ECommerceManagement.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\refint\ECommerceManagement.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ECommerceManagement.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ECommerceManagement.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Assignments\ECommerceManagement\obj\Debug\net6.0\ref\ECommerceManagement.dll
