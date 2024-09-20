@@ -91,7 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XSLTDemo", "XSLTDemo\XSLTDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorManagementSystem", "DoctorManagementSystem\DoctorManagementSystem.csproj", "{B0DE374B-B4F5-49C4-9D2B-1A92CA6CFDB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceManagement", "ECommerceManagement\ECommerceManagement.csproj", "{06398010-7247-4CFD-B7E7-29E44C454A15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerceManagement", "ECommerceManagement\ECommerceManagement.csproj", "{06398010-7247-4CFD-B7E7-29E44C454A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightManagement", "FlightManagement\FlightManagement.csproj", "{85D6AD84-2409-458F-A245-3CE5352BAAB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{06398010-7247-4CFD-B7E7-29E44C454A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06398010-7247-4CFD-B7E7-29E44C454A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06398010-7247-4CFD-B7E7-29E44C454A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D6AD84-2409-458F-A245-3CE5352BAAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D6AD84-2409-458F-A245-3CE5352BAAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D6AD84-2409-458F-A245-3CE5352BAAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D6AD84-2409-458F-A245-3CE5352BAAB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
