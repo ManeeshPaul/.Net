@@ -95,7 +95,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerceManagement", "ECom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightManagement", "FlightManagement\FlightManagement.csproj", "{85D6AD84-2409-458F-A245-3CE5352BAAB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZomatoApp", "ZomatoApp\ZomatoApp.csproj", "{C03D4E69-B376-400B-BA77-7CFCD902FC4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZomatoApp", "ZomatoApp\ZomatoApp.csproj", "{C03D4E69-B376-400B-BA77-7CFCD902FC4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Milestone Assessment - 5", "Milestone Assessment - 5", "{F3A0FE67-7416-4AC7-A972-76811316AD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement", "UserManagement\UserManagement.csproj", "{3798F193-390A-4A15-8998-80FF73B38EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTest", "SeleniumTest\SeleniumTest.csproj", "{D62A8E23-E553-4591-AFCA-77A3E38899A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,9 +297,21 @@ Global
 		{C03D4E69-B376-400B-BA77-7CFCD902FC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C03D4E69-B376-400B-BA77-7CFCD902FC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C03D4E69-B376-400B-BA77-7CFCD902FC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3798F193-390A-4A15-8998-80FF73B38EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3798F193-390A-4A15-8998-80FF73B38EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3798F193-390A-4A15-8998-80FF73B38EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3798F193-390A-4A15-8998-80FF73B38EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62A8E23-E553-4591-AFCA-77A3E38899A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62A8E23-E553-4591-AFCA-77A3E38899A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62A8E23-E553-4591-AFCA-77A3E38899A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62A8E23-E553-4591-AFCA-77A3E38899A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3798F193-390A-4A15-8998-80FF73B38EA5} = {F3A0FE67-7416-4AC7-A972-76811316AD51}
+		{D62A8E23-E553-4591-AFCA-77A3E38899A7} = {F3A0FE67-7416-4AC7-A972-76811316AD51}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {053677A0-B77A-442B-9F76-09A974EC67CD}
