@@ -1,0 +1,32 @@
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Part 7 - Logging.exe
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Part 7 - Logging.deps.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Part 7 - Logging.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Part 7 - Logging.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Part 7 - Logging.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\refint\Part 7 - Logging.dll
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.pdb
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\Part 7 - Logging.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp\Tasks\Milestone Assessment - 7\Part 7 - Logging\obj\Debug\net6.0\ref\Part 7 - Logging.dll
